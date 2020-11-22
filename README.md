@@ -5,6 +5,7 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/mateuszniechwiej/ProjectCLI/_apis/build/status/mattitkd.calculator?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/mateuszniechwiej/ProjectCLI/_build/latest?definitionId=1&branchName=refs%2Fpull%2F2%2Fmerge)
 
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
